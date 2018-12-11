@@ -1,0 +1,5 @@
+*Execution instructions:*
+
+python passwordCrack.py
+
+python zipCrack.py -f <Zipfile Name> -d <Dictionary File Name>
