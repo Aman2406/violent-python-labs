@@ -1,0 +1,7 @@
+apple
+mango
+papaya
+egg
+tomato
+milk
+grape
